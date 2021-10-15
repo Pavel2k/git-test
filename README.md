@@ -1,0 +1,1 @@
+This is Pavel2k’s first git project!
